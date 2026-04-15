@@ -7,3 +7,7 @@ The paper is accepted to ACL 2026-Findings short paper.
 # Data
 
 We utilize the open-source datasets including UM-corpus and OPUS.
+
+# Q&A
+
+If you have any questions, please contact with me zhiboman@bjtu.edu.cn
